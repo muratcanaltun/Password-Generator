@@ -1,7 +1,7 @@
 #include <ctime>
 #include <iostream>
 
-int main(int argc, char* argv[])
+int main()
 {
 	char characters[] = "0123456789!@#$%^&*abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	srand(time(0));
